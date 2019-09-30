@@ -1,0 +1,136 @@
+﻿  Main.c
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(95): warning C4047: 'function': 'FILE **' differs in levels of indirection from 'void (__cdecl *)(FILE **,FILE **,node *,int)'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(95): warning C4024: 'LoadFile': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(233): warning C4098: 'main': 'void' function returning a value
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(73): warning C4101: 'result': unreferenced local variable
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(65): warning C4101: 'ReportFile': unreferenced local variable
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(307): warning C4098: 'login': 'void' function returning a value
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(250): warning C4477: 'fscanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const char *'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(250): warning C4477: 'fscanf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'const char *'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(239): warning C4101: 'i': unreferenced local variable
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(240): warning C4101: 'ch': unreferenced local variable
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(324): warning C4047: 'function': 'node *' differs in levels of indirection from 'node **'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(324): warning C4024: 'PassportNoComp': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(360): warning C4047: '=': 'int' differs in levels of indirection from 'char [3]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(363): warning C4047: '=': 'int' differs in levels of indirection from 'char [15]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(366): warning C4047: '=': 'int' differs in levels of indirection from 'char [5]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(369): warning C4047: '=': 'int' differs in levels of indirection from 'char [9]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(372): warning C4047: '=': 'int' differs in levels of indirection from 'char [12]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(388): warning C4047: '=': 'int' differs in levels of indirection from 'char [8]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(391): warning C4047: '=': 'int' differs in levels of indirection from 'char [16]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(394): warning C4047: '=': 'int' differs in levels of indirection from 'char [9]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(397): warning C4047: '=': 'int' differs in levels of indirection from 'char [12]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(412): warning C4047: '=': 'int' differs in levels of indirection from 'char [23]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(415): warning C4047: '=': 'int' differs in levels of indirection from 'char [22]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(418): warning C4047: '=': 'int' differs in levels of indirection from 'char [22]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(434): warning C4047: '=': 'int' differs in levels of indirection from 'char [8]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(437): warning C4047: '=': 'int' differs in levels of indirection from 'char [22]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(440): warning C4047: '=': 'int' differs in levels of indirection from 'char [22]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(443): warning C4047: '=': 'int' differs in levels of indirection from 'char [22]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(487): warning C4047: '=': 'int' differs in levels of indirection from 'char [3]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(490): warning C4047: '=': 'int' differs in levels of indirection from 'char [15]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(493): warning C4047: '=': 'int' differs in levels of indirection from 'char [5]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(496): warning C4047: '=': 'int' differs in levels of indirection from 'char [9]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(499): warning C4047: '=': 'int' differs in levels of indirection from 'char [12]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(515): warning C4047: '=': 'int' differs in levels of indirection from 'char [9]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(518): warning C4047: '=': 'int' differs in levels of indirection from 'char [17]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(521): warning C4047: '=': 'int' differs in levels of indirection from 'char [10]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(524): warning C4047: '=': 'int' differs in levels of indirection from 'char [13]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(539): warning C4047: '=': 'int' differs in levels of indirection from 'char [23]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(542): warning C4047: '=': 'int' differs in levels of indirection from 'char [22]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(545): warning C4047: '=': 'int' differs in levels of indirection from 'char [22]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(561): warning C4047: '=': 'int' differs in levels of indirection from 'char [8]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(564): warning C4047: '=': 'int' differs in levels of indirection from 'char [22]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(567): warning C4047: '=': 'int' differs in levels of indirection from 'char [22]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(570): warning C4047: '=': 'int' differs in levels of indirection from 'char [22]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(619): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(620): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(621): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(622): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(662): warning C4047: '=': 'int' differs in levels of indirection from 'char [3]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(665): warning C4047: '=': 'int' differs in levels of indirection from 'char [15]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(668): warning C4047: '=': 'int' differs in levels of indirection from 'char [5]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(671): warning C4047: '=': 'int' differs in levels of indirection from 'char [9]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(674): warning C4047: '=': 'int' differs in levels of indirection from 'char [12]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(690): warning C4047: '=': 'int' differs in levels of indirection from 'char [8]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(693): warning C4047: '=': 'int' differs in levels of indirection from 'char [22]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(696): warning C4047: '=': 'int' differs in levels of indirection from 'char [22]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(699): warning C4047: '=': 'int' differs in levels of indirection from 'char [22]'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(751): warning C4101: 'number': unreferenced local variable
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(845): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(845): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(860): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(860): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(875): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(875): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(890): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(890): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(905): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(905): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(920): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(920): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(935): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(935): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(950): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(950): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(965): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(965): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1005): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1005): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1020): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1020): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1035): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1035): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1050): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1050): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1065): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1065): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1080): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1080): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1095): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1095): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1110): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1110): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1125): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1125): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(984): warning C4101: 'choice': unreferenced local variable
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(989): warning C4101: 'travelClass': unreferenced local variable
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1151): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1151): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1181): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1181): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1305): warning C4047: '=': 'FILE **' differs in levels of indirection from 'FILE *'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1307): warning C4047: '=': 'FILE **' differs in levels of indirection from 'FILE *'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1352): warning C4047: 'function': 'FILE *const ' differs in levels of indirection from 'FILE **'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1352): warning C4024: 'fprintf': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1353): warning C4047: 'function': 'FILE *const ' differs in levels of indirection from 'FILE **'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1353): warning C4024: 'fprintf': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1354): warning C4047: 'function': 'FILE *const ' differs in levels of indirection from 'FILE **'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1354): warning C4024: 'fprintf': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1355): warning C4047: 'function': 'FILE *const ' differs in levels of indirection from 'FILE **'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1355): warning C4024: 'fprintf': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1356): warning C4047: 'function': 'FILE *const ' differs in levels of indirection from 'FILE **'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1356): warning C4024: 'fprintf': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1357): warning C4047: 'function': 'FILE *const ' differs in levels of indirection from 'FILE **'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1357): warning C4024: 'fprintf': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1358): warning C4047: 'function': 'FILE *const ' differs in levels of indirection from 'FILE **'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1358): warning C4024: 'fprintf': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1359): warning C4047: 'function': 'FILE *const ' differs in levels of indirection from 'FILE **'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1359): warning C4024: 'fprintf': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1361): warning C4047: 'function': 'FILE *const ' differs in levels of indirection from 'FILE **'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1361): warning C4024: 'fprintf': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1373): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILE **'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1373): warning C4024: 'fclose': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1375): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILE **'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1375): warning C4024: 'fclose': different types for formal and actual parameter 1
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1356): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1357): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1358): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1359): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1361): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 6 has type 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1361): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 7 has type 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1361): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 8 has type 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1361): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 9 has type 'int'
+c:\users\mark\documents\college\year 2\procedural programming (c)\semester two\xyzairport\xyzairport\main.c(1283): warning C4716: 'LoadFile': must return a value
+  XYZAirport.vcxproj -> C:\Users\Mark\Documents\College\Year 2\Procedural Programming (C)\Semester Two\XYZAirport\Debug\XYZAirport.exe
+  XYZAirport.vcxproj -> C:\Users\Mark\Documents\College\Year 2\Procedural Programming (C)\Semester Two\XYZAirport\Debug\XYZAirport.pdb (Partial PDB)

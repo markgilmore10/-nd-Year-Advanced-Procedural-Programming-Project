@@ -1,0 +1,14 @@
+Mark Gilmore
+G00214777
+
+My code works by prompting the user if he / she wants to read from an old database or start a new one.
+The user is then given the various options laid out in the assignment brief.
+Option 1 adds a passenger.
+Option 2 displays all passenger names and numbers.
+Option 3 lets you chose a passenger number and then displays chosen passengers details on screen in full.
+Option 4 lets you update required passengers details as per the brief.
+Option 5 lets you delete a passenger.
+option 6 gives you an option to generate statistics based on travel class or born before 1980.
+	 it then displays all stats to screen.
+Option 7 prints all passengers to a report file named "Database".
+Option 8 Lists all passengers in order of year born.
